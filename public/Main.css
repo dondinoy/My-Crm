@@ -1,0 +1,75 @@
+
+.editContainer{
+display: flex;
+justify-content: center;
+padding: 20px;
+background-color: black;
+}
+.addContainer{
+display: flex;
+justify-content: center;
+padding: 20px;
+background-color: rgb(219, 219, 219);
+}
+#cancelbtn{
+display: flex;
+width: 790px;
+text-align: center;
+font-size: 30px;
+justify-content: center;
+align-content: center;
+align-items: center;
+}
+#formholder{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.crmList{
+display:flex;
+font-size: 25px;
+align-content: center;
+justify-content: center;
+}
+
+#btn_holder{
+padding: 10px;
+}
+.addBtn{
+display: flex;
+width: 790px;
+text-align: center;
+font-size: 30px;
+justify-content: space-around;
+}
+.updateBtn{
+display: flex;
+width: 790px;
+text-align: center;
+font-size: 30px;
+justify-content: space-around;
+
+}
+td{
+padding: 10px;
+}
+#forminput{
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  text-align: center;
+  font-size: 20px;
+  align-content: center;
+}
+#inputholder{
+  display: flex;
+  flex-direction: column;
+}
+#selectinput{
+  display: flex;
+  flex-direction: column;
+  width: 790px;
+  text-align: center;
+  font-size: 20px;
+}
